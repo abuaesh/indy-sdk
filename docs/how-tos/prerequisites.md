@@ -8,7 +8,7 @@ language of choice
 system path.
 3. A running indy pool.
 
-Instructions for #2 (building and installing libindy) can be found [here](../../README.md#installation). Note that we
+Instructions for #2 (building and installing libindy) can be found [here](https://hyperledger-indy.readthedocs.io/projects/sdk/en/latest/docs/build-guides/index.html). Note that we
 recommend building the SDK to eliminate versioning problems; pre-built binaries
 may be slightly stale.
 
